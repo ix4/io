@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/linux,python,jupyternotebooks,node,backup
 # Edit at https://www.toptal.com/developers/gitignore?templates=linux,python,jupyternotebooks,node,backup
-
+### LibreOffice ###
+# LibreOffice locks
+.~lock.*#
 ### Backup ###
 *.bak
 *.gho
